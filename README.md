@@ -18,7 +18,7 @@ This is a birthday checker mini app to determine whether your birthday is lucky 
 ---
 
 ## Live Demo
-[![Go Live](https://img.shields.io/badge/Go%20Live-1DA1F?style=for-the-badge&logo=&logoColor=white)]()
+[![Go Live](https://img.shields.io/badge/Go%20Live-1DA1F?style=for-the-badge&logo=&logoColor=white)](https://lucky-birthday-checker.vercel.app/)
 
 ---
 
